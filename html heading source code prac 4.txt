@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+
+
+<head>
+  
+<meta charset="utf-8">
+ 
+ <meta name="viewport" content="width=device-width">
+ 
+ <title>HTML PRACTICAL</title>
+  
+
+</head>
+
+
+<body>
+ 
+ <div id="html">
+  
+<section id="html headings">
+   
+   <h1> 4. HTML heading </h1>
+    
+  <p>HTML heading tags uses for illustrate content as heading in the html page, In the HTML has 6 heading (h1 -h6)
+        type which can define as a font size and importance to content</p>
+ 
+ </section>
+ 
+ 
+<div>
